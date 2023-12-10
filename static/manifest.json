@@ -16,7 +16,7 @@
   ],
   "background_color": "#546dd2",
   "display": "standalone",
-  "scope": "/test-web/",
+  "scope": "/Test/",
   "theme_color": "#546dd2",
   "shortcuts": [],
   "description": "Edit this information in static/maifest.json"
